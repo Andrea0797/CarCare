@@ -20,7 +20,6 @@ public class DataService {
         fuelUpEntries = new ArrayList<>();
         fuelUpEntries.add(new FuelUpEntry(8.5, 11, new FuelType("Gas 90", "Gasoline 90 Octanes"), new Date(), "145000", "Sample 1"));
         fuelUpEntries.add(new FuelUpEntry(8.3, 11.5, new FuelType("Gas 90", "Gasoline 90 Octanes"), new Date(), "145100", "Sample 2"));
-        fuelUpEntries.add(new FuelUpEntry(1.1,0,new FuelType("Gas 90","Gasolina"),new Date(),"1111","Sample 3"));
 
     }
 
